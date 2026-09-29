@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/greathouse-games-logo.png" alt="Greathouse Games" width="480">
+</p>
+
 # Greathouse Games — bug reports
 
 This repo is just a place to report bugs and problems with Greathouse Games titles. **There is no
