@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Order, refund, serial or download questions
+    url: mailto:support@greathousegames.com
+    about: These involve your order details, which don't belong in a public issue. Email us instead.
+  - name: FAQ
+    url: https://greathousegames.com/faq
+    about: Installation help (e.g. Windows SmartScreen), refund policy, and other common questions.
