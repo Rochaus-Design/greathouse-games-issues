@@ -9,8 +9,38 @@ source code here** — the games themselves are closed-source. This is only for 
 
 ## Titles this covers
 
-GroupTherapy, Jolly Roger Bones, Word Surge, WordSearch, Sudo9, Yacht at Sea, and anything else
-sold at [greathousegames.com](https://greathousegames.com).
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://greathousegames.com/games/GroupTherapy"><img src="images/group-therapy.png" width="220" alt="GroupTherapy"></a><br>
+      <a href="https://greathousegames.com/games/GroupTherapy">GroupTherapy</a>
+    </td>
+    <td align="center">
+      <a href="https://greathousegames.com/games/JollyRogerBones"><img src="images/jolly-roger-bones.png" width="220" alt="Jolly Roger Bones"></a><br>
+      <a href="https://greathousegames.com/games/JollyRogerBones">Jolly Roger Bones</a>
+    </td>
+    <td align="center">
+      <a href="https://greathousegames.com/games/WordSurge"><img src="images/word-surge.png" width="220" alt="Word Surge"></a><br>
+      <a href="https://greathousegames.com/games/WordSurge">Word Surge</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://greathousegames.com/games/WordSearch"><img src="images/word-search.png" width="220" alt="WordSearch"></a><br>
+      <a href="https://greathousegames.com/games/WordSearch">WordSearch</a>
+    </td>
+    <td align="center">
+      <a href="https://greathousegames.com/games/SuDo9"><img src="images/sudo9.png" width="220" alt="Sudo9"></a><br>
+      <a href="https://greathousegames.com/games/SuDo9">Sudo9</a>
+    </td>
+    <td align="center">
+      <a href="https://greathousegames.com/games/YachtAtSea"><img src="images/yacht-at-sea.png" width="220" alt="Yacht at Sea"></a><br>
+      <a href="https://greathousegames.com/games/YachtAtSea">Yacht at Sea</a>
+    </td>
+  </tr>
+</table>
+
+And anything else sold at [greathousegames.com](https://greathousegames.com).
 
 ## Reporting a bug
 
