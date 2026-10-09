@@ -59,3 +59,15 @@ And anything else sold at [greathousegames.com](https://greathousegames.com).
   order details, which don't belong in a public issue.
 - **Just want to say something nice, or ask a general question** — the email above works for that
   too.
+
+---
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/rochaus-design-dark.png"><img src="images/rochaus-design-light.png" alt="Rochaus Design" width="150"></picture>
+
+**Rochaus Design, LLC d/b/a Greathouse Games**<br>[greathousegames.com](https://greathousegames.com)
+
+Copyright (c) 2026 Rochaus Design, LLC d/b/a Greathouse Games. All rights reserved.
+
+</div>
